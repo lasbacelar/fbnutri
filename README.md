@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=XjNs_OM6m8A&t=658s
 
 ### 1.1 Creating a new react app
 https://reactjs.org/docs/create-a-new-react-app.html
-npx create-react-app fbnutri
+npx create-react-app fbnutrition
 cd fbnutri
 npm start
 
